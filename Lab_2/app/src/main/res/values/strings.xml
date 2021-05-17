@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2GPACalc</string>
+    <string name="todo">TODO</string>
+    <string name="credits">Credits</string>
+    <string name="grade">Grade</string>
+    <string name="Class">Class</string>
+    <string name="classname">Class</string>
+    <string name="Calculate">Calculate</string>
+    <string name="titleText">GPA Calculator!</string>
+    <string name="classTextbox">Name</string>
+    <string name="creditsTextbox">Name</string>
+    <string name="gradeTextbox">Name</string>
+</resources>

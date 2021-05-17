@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="todo">TODO</string>
+    <string name="credits">Credits</string>
+    <string name="grade">Grade</string>
+    <string name="Class">Class</string>
+    <string name="classname">Class</string>
+    <string name="Calculate">Calculate</string>
+    <string name="titleText">Calculate Your GPA!</string>
+    <string name="empty" />
+    <string name="courseTitle">Enter Your Course Details Below</string>
+    <string name="class_name">Enter Class Name</string>
+    <string name="btnAdd">Add Course</string>
+    <string name="class_credits">Enter Class Credits</string>
+    <string name="class_grade">Enter Class Grade</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_course">CourseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
